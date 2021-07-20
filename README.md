@@ -1,4 +1,4 @@
 # EZMultiplayer
 UDP networking system for Unity
-<p><br>
+<br>
 ![hippo](https://github.com/artistotless/EZMultiplayer/blob/master/ezgif.com-gif-maker.gif)
